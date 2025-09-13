@@ -68,7 +68,7 @@ public class Fan {
     }
 
     //Returns color data type using mutators method
-    public void setRadius(String color) {
+    public void setColor(String color) {
         this.color = color;
     }
 
