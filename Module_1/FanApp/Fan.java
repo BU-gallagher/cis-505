@@ -16,7 +16,7 @@ public class Fan {
      * Declaring the no-argument and argument constructor to pull default values or allows the user to provide new values.
      * Declaring the accessor methods for the four data fields.
      * @return prints the results to the console window
-     * //Main method that allows users to use default values or provide new values for specifications of a fan.
+     * Main method that allows users to use default values or provide new values for specifications of a fan.
      */
 
 
