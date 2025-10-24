@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GallagherFutureValue",
+            "request": "launch",
+            "mainClass": "edu.bellevue/edu.bellevue.GallagherFutureValue",
+            "projectName": "gallagherfuturevalue"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "Module_7.futurevalueapp.src.main.java.edu.bellevue.App",
+            "projectName": "cis-505_70d040ca"
+        },
+        {
+            "type": "java",
+            "name": "GallagherFutureValue",
+            "request": "launch",
+            "mainClass": "com.example/com.example.GallagherFutureValue",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "GallagherFutureValue",
+            "request": "launch",
+            "mainClass": "GallagherFutureValue",
+            "projectName": "cis-505_70d040ca"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.example/com.example.App",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch GallagherFutureValueApp",
+            "request": "launch",
+            "mainClass": "GallagherFutureValueApp",
+            "vmArgs": "--module-path \"C:\\Program Files\\Java\\openjfx-25.0.1_windows-x64_bin-sdk\\javafx-sdk-25.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
